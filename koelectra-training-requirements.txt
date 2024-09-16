@@ -4,3 +4,4 @@ kobert_transformers
 matplotlib
 IPython
 pandas
+sentence_transformers
